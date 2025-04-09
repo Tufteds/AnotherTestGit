@@ -30,3 +30,6 @@
 
 1. Установка файла S.A.R.I.exe
 2. Запуск exe файла
+
+[Скачать программу SARI для Windows](https://github.com/Tufteds/AnotherTestGit/releases/tag/v1.0)
+
